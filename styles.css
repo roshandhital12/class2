@@ -1,0 +1,16 @@
+table{border-collapse: collapse;
+width:50%;
+margin:o auto;}
+
+th,td{border: 3px solid black;
+text-align: centre;
+padding: 12px;}
+
+img{
+    width: 600px;
+    height: 400px;
+    display:block;
+    margin :auto;
+
+}
+th{background-color: aqua;}
